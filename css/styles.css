@@ -1,0 +1,140 @@
+#title
+{
+background-color:#ff4c68;
+color:white;
+}
+body 
+{
+font-family: "Montserrat";
+font-weight:bold;
+}
+h1
+{
+    font-family: "Montserrat";
+    font-size:3 rem;
+    font-weight:bold;
+    line-height:1.5;
+}
+.navbar
+{
+    padding:0 0 4.5rem;
+}
+.container-fluid
+{
+    padding:3% 15%;
+}
+.navbar-brand 
+{
+font-family:"Ubuntu";
+font-size: 2.5rem;
+font-weight:bold;
+}
+.navbar
+{
+    padding-bottom: 3.5rem;
+}
+.nav-item
+{
+    padding:0px 18px 0px 18px;
+    font-size:1.5rem;
+    font-weight:700;
+}
+
+ a.nav-link:hover
+{
+    color:green !important;
+}
+
+li.nav-item a:hover
+{
+    background-color:black
+}
+.btn 
+{
+    margin-top:35px;
+}
+.title-image 
+{
+width:60%;
+transform: rotate(25deg);
+
+
+}
+.material-icons 
+{
+    font-size:67px!important;
+}
+h3 
+{
+    font-family:"Montserrat-black";
+font-size:2rem;
+
+}
+.title-feature
+{
+    padding: 0% 15%;
+    padding-top: 13px;
+    margin-left: 2px;
+    margin-top: 20px;
+}
+.material-icons:hover
+{
+    color: red;
+}
+#features
+{
+    padding:7% 15% !important;
+    background-color: #fff;
+    position:relative;
+    z-index:1;
+}
+.feature-box
+{
+  text-align:center;
+  padding:5%;
+}
+/* testimonial section */
+#testimonials
+{
+text-align: center;
+background-color:#ff4c68;
+color:white;
+}
+.testimonial-image
+{
+    width: 10%;
+    padding-top:28px;
+    border-radius:100%;
+}
+.carousel-item
+{
+    padding:7%  15%;
+}
+#press
+{
+    background-color:#ff4c68;
+    text-align: center;
+  padding-bottom:50px;
+}
+.press-logo
+{
+    width:20%;
+   padding-left:5%;
+   padding-right: 1%;
+}
+/*margin between cards */
+/* .pad
+{
+    margin-left:5px;
+} */
+.card
+{
+    width:20%;
+    margin-left:100px;
+    margin-bottom: 19px;
+}
+.card-header
+{
+   margin-left:0px !important;
+  
+}
